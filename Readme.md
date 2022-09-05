@@ -1,6 +1,6 @@
 # Java Signup-Login Program
 
-Aim: Person that wants to become a user in a program 
+Aim: Person wants to become a user in a program 
 
 Tasks:
 1.     User Registers with a valid email & Password
