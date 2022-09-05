@@ -18,13 +18,14 @@ Tools Used:
 
 # IMAGES 
 1. Sending POSTMAN request to program
-   ![](/Users/mohamed/Desktop/Screenshot 2022-09-05 at 12.24.19.png "POSTMAN API request")
+   <img width="1243" alt="Screenshot 2022-09-05 at 12 24 45" src="https://user-images.githubusercontent.com/56473612/188440953-76a9053c-8c8a-4cbe-8776-30194d17eb53.png">
+
 
 2. User stored onto Database
-   ![](/Users/mohamed/Desktop/Screenshot 2022-09-05 at 12.28.10.png "User is stored onto database")
+   <img width="731" alt="Screenshot 2022-09-05 at 12 28 10" src="https://user-images.githubusercontent.com/56473612/188441016-3dc7f826-a3ab-4075-8260-20adb10716a3.png">
 
 3. User receives verification link  
-    ![](/Users/mohamed/Desktop/Screenshot 2022-09-05 at 12.24.45.png "Verification Link")
+   <img width="494" alt="Screenshot 2022-09-05 at 12 29 54" src="https://user-images.githubusercontent.com/56473612/188441054-10830a69-5004-4a77-9df6-19359b356bc4.png">
 
 4. Login 
-    ![](/Users/mohamed/Desktop/Screenshot 2022-09-05 at 12.29.54.png "Login")
+    <img width="702" alt="Screenshot 2022-09-05 at 12 24 19" src="https://user-images.githubusercontent.com/56473612/188441079-b7778ba7-e1fe-4a9c-b870-2ed53536ac64.png">
